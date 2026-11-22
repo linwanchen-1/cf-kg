@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "779435540@qq.com",
+  "name": 779435540@qq.com,
   "main": "src/index.js",
   "compatibility_date": "2026-11-01",
   "compatibility_flags": ["nodejs_compat"],
