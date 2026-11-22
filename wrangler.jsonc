@@ -15,7 +15,7 @@
   //   npx wrangler kv namespace create KG_KV
   "kv_namespaces": [
     {
-      "binding": "779435540@qq.com",
+      "binding": "KG_KV",
      "id": "b90f9b4368431731488ade78d69589aa"
     }
   ]
